@@ -1,0 +1,8 @@
+{
+  "name": "TASTYRIDE - Village Food Delivery",
+  "description": "A simple, fast, and Bangla-friendly food delivery platform optimized for semi-urban areas in Bangladesh.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}
